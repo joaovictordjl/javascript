@@ -9,5 +9,5 @@ numero = parseInt(numero);
 
 //PARA FAZER ISSO DIRETO NA HORA DO PROMPT
 
-//let numero = parseInt(prompt('digite um número: '));
+let numero2 = Number(prompt('digite um número: '));
 
