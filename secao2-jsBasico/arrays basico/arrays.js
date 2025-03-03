@@ -28,3 +28,14 @@ console.log(familia[0]);
 familia.pop();
 console.log(familia);
 
+//PARA REMOVER UM ELEMENTO E MANTER O ÍNDICE, O ÍNDICE EXISTE MAS COM VALOR VAZIO (EMPTY ITEM)
+
+delete familia[0];
+console.log(familia);
+
+//PARA BUSCAR E IMPRIMIR MAIS DE UM ARRAY:
+
+console.log(familia.slice(0,3)); //pega do primeiro indice até João que é o índice antecedente ao 3.
+
+
+
