@@ -1,0 +1,2 @@
+const hora = 10;
+
