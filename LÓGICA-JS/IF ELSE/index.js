@@ -17,3 +17,6 @@ if (hora >= 0 && hora <= 12) {
     console.log(`Boa noite, já são ${hora} horas`);
 }
 
+/**
+ * Quando tiver várias condições, analisa a primeira condição verdadeira e finaliza as verificações, mesmo se houver mais condições abaixo
+ */
